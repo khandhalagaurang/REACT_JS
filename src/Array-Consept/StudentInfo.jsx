@@ -2,7 +2,7 @@ import React from 'react';
 
 const StudentInfo = () => {
   const student = {
-    name: 'Siddharth Jadav',
+    name: 'Gaurang',
     age: 21,
     grade: 'A',
     major: 'Web Devloper'
