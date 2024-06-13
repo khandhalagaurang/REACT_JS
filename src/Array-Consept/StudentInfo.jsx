@@ -3,7 +3,7 @@ import React from 'react';
 const StudentInfo = () => {
   const student = {
     name: 'Gaurang',
-    age: 21,
+    age: 18,
     grade: 'A',
     major: 'Web Devloper'
   };
